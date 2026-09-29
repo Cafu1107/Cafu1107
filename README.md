@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Cafu 👋</h1>
 
 <p align="center">
-  I build small, focused, open-source tools that replace bloated software: for gaming mice, Windows reinstalls and electronics workbenches.<br>
-  <sub>Merhaba! Oyun faresi, format ve elektronik atölyesi için sade, açık kaynak araçlar geliştiriyorum. 🇹🇷</sub>
+  I build small, focused, open-source tools that replace bloated software: for gaming mice, Windows reinstalls and electronics workbenches.
 </p>
+
+<p align="center"><a href="#-türkçe">🇹🇷 Türkçe aşağıda</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -46,3 +47,18 @@ Inventory app for electronic parts, with automatic photo search, a photo editor,
 </p>
 
 <p align="center"><sub>⭐ If one of these tools saved you some time, a star helps other people find it.</sub></p>
+
+---
+
+## 🇹🇷 Türkçe
+
+Merhaba, ben Cafu! Oyun faresi, format ve elektronik atölyesi için; şişkin, sürekli arka planda çalışan programların yerini alan sade ve açık kaynak araçlar geliştiriyorum.
+
+### Projeler
+
+- 🖱️ **[OpenGlide](https://github.com/Cafu1107/openglide)** · [canlı demo](https://cafu1107.github.io/openglide/): Oyun fareleri için tarayıcıdan çalışan, açık kaynak kontrol paneli. 40'tan fazla markada DPI, polling rate, sensör, tuş ve RGB ayarlarını **WebHID** ile doğrudan fareye yazar. Üretici programı, hesap veya veri toplama yok.
+- 💾 **[Rebornix](https://github.com/Cafu1107/Rebornix)** · [indir](https://github.com/Cafu1107/Rebornix/releases/latest): Format atmadan önce her şeyi yedekler, formattan sonra tek tıkla geri kurar: sürücüler, Wi-Fi şifreleri (AES-256), winget ile programlar, oyun kayıtları ve Windows ayarları. Kurulum gerektirmeyen tek bir `.exe`.
+- 🔧 **[Komponent Depo](https://github.com/Cafu1107/komponent-depo)** · [canlı demo](https://cafu1107.github.io/komponent-depo/): Elektronik parçalar için stok uygulaması. Otomatik fotoğraf arama, fotoğraf düzenleyici, alışveriş listesi ve stok geçmişi var. Türkçe, İngilizce ve Almanca; bağımlılığı olmayan tek bir HTML dosyası.
+- 🧰 **Küçük araçlar:** [Wifi](https://github.com/Cafu1107/Wifi) bilgisayarında kayıtlı Wi-Fi şifrelerini gösterir. [DeleteSpace](https://github.com/Cafu1107/DeleteSpace) bir metin dosyasındaki boşlukları siler.
+
+<p align="center"><sub>⭐ Bu araçlardan biri işine yaradıysa bir yıldız bırakman, başkalarının da onu bulmasına yardım eder.</sub></p>
