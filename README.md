@@ -26,7 +26,7 @@ Open-source, browser-based control panel for gaming mice. DPI, polling rate, sen
 <a href="https://github.com/Cafu1107/openglide"><img src="https://raw.githubusercontent.com/Cafu1107/openglide/main/docs/assets/banner.svg" width="100%" alt="OpenGlide"></a>
 
 ### 💾 [Rebornix](https://github.com/Cafu1107/Rebornix) · [download](https://github.com/Cafu1107/Rebornix/releases/latest)
-Back up everything before reinstalling Windows, then restore it in one click: drivers, Wi-Fi passwords (AES-256), apps via winget, game saves and Windows settings. A portable single `.exe`.
+Back up everything before reinstalling Windows, then restore it in one click: drivers, Wi-Fi passwords (AES-256), apps via winget, game saves and Windows settings. A portable single `.exe` in English, Turkish and German.
 `C#` `.NET 8` `WPF` `winget`
 
 <a href="https://github.com/Cafu1107/Rebornix"><img src="https://raw.githubusercontent.com/Cafu1107/Rebornix/main/docs/banner.svg" width="100%" alt="Rebornix"></a>
@@ -57,7 +57,7 @@ Merhaba, ben Cafu! Oyun faresi, format ve elektronik atölyesi için; şişkin, 
 ### Projeler
 
 - 🖱️ **[OpenGlide](https://github.com/Cafu1107/openglide)** · [canlı demo](https://cafu1107.github.io/openglide/): Oyun fareleri için tarayıcıdan çalışan, açık kaynak kontrol paneli. 40'tan fazla markada DPI, polling rate, sensör, tuş ve RGB ayarlarını **WebHID** ile doğrudan fareye yazar. Üretici programı, hesap veya veri toplama yok.
-- 💾 **[Rebornix](https://github.com/Cafu1107/Rebornix)** · [indir](https://github.com/Cafu1107/Rebornix/releases/latest): Format atmadan önce her şeyi yedekler, formattan sonra tek tıkla geri kurar: sürücüler, Wi-Fi şifreleri (AES-256), winget ile programlar, oyun kayıtları ve Windows ayarları. Kurulum gerektirmeyen tek bir `.exe`.
+- 💾 **[Rebornix](https://github.com/Cafu1107/Rebornix)** · [indir](https://github.com/Cafu1107/Rebornix/releases/latest): Format atmadan önce her şeyi yedekler, formattan sonra tek tıkla geri kurar: sürücüler, Wi-Fi şifreleri (AES-256), winget ile programlar, oyun kayıtları ve Windows ayarları. Kurulum gerektirmeyen tek bir `.exe`; İngilizce, Türkçe ve Almanca.
 - 🔧 **[Komponent Depo](https://github.com/Cafu1107/komponent-depo)** · [canlı demo](https://cafu1107.github.io/komponent-depo/): Elektronik parçalar için stok uygulaması. Otomatik fotoğraf arama, fotoğraf düzenleyici, alışveriş listesi ve stok geçmişi var. Türkçe, İngilizce ve Almanca; bağımlılığı olmayan tek bir HTML dosyası.
 - 🧰 **Küçük araçlar:** [Wifi](https://github.com/Cafu1107/Wifi) bilgisayarında kayıtlı Wi-Fi şifrelerini gösterir. [DeleteSpace](https://github.com/Cafu1107/DeleteSpace) bir metin dosyasındaki boşlukları siler.
 
