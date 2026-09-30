@@ -52,7 +52,7 @@ Inventory app for electronic parts, with automatic photo search, a photo editor,
 
 ## 🇹🇷 Türkçe
 
-Merhaba, ben Cafu! Oyun faresi, format ve elektronik atölyesi için; şişkin, sürekli arka planda çalışan programların yerini alan sade ve açık kaynak araçlar geliştiriyorum.
+Merhaba, ben Cafu! Mouse, format ve elektronik atölyesi için; şişkin, sürekli arka planda çalışan programların yerini alan sade ve açık kaynak araçlar geliştiriyorum.
 
 ### Projeler
 
