@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cafu 👋</h1>
 
 <p align="center">
-  I build small, focused, open-source tools that replace bloated software: for gaming mice, Windows reinstalls and electronics workbenches.
+  I build small, focused, open-source tools that replace bloated software: for webcams, gaming mice, Windows reinstalls and electronics workbenches.
 </p>
 
 <p align="center"><a href="#-türkçe">🇹🇷 Türkçe aşağıda</a></p>
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/WPF-.NET%208-512BD4?style=flat-square" alt="WPF">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Arduino%20%2F%20ESP32-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino / ESP32">
 </p>
@@ -18,6 +19,12 @@
 ---
 
 ## 🚀 Projects
+
+### 🎥 [Kadraj](https://github.com/Cafu1107/kadraj) · [website](https://cafu1107.github.io/kadraj/) · [download](https://github.com/Cafu1107/kadraj/releases/latest)
+Turn your phone into a Windows webcam with AI background blur and replacement, filters, frames and a name tag. No phone app: scan a QR code and it shows up as a camera in Zoom, Teams, Discord and Meet.
+`C#` `.NET 9` `WPF` `C++` `Media Foundation` `ONNX Runtime`
+
+<a href="https://github.com/Cafu1107/kadraj"><img src="https://raw.githubusercontent.com/Cafu1107/kadraj/main/docs/assets/banner.png" width="100%" alt="Kadraj"></a>
 
 ### 🖱️ [OpenGlide](https://github.com/Cafu1107/openglide) · [live demo](https://cafu1107.github.io/openglide/)
 Open-source, browser-based control panel for gaming mice. DPI, polling rate, sensor, buttons and RGB over **WebHID** for 40+ brands, with no vendor bloatware, account or telemetry.
@@ -52,10 +59,11 @@ Inventory app for electronic parts, with automatic photo search, a photo editor,
 
 ## 🇹🇷 Türkçe
 
-Merhaba, ben Cafu! Mouse, format ve elektronik atölyesi için; şişkin, sürekli arka planda çalışan programların yerini alan sade ve açık kaynak araçlar geliştiriyorum.
+Merhaba, ben Cafu! Webcam, mouse, format ve elektronik atölyesi için; şişkin, sürekli arka planda çalışan programların yerini alan sade ve açık kaynak araçlar geliştiriyorum.
 
 ### Projeler
 
+- 🎥 **[Kadraj](https://github.com/Cafu1107/kadraj)** · [web sitesi](https://cafu1107.github.io/kadraj/) · [indir](https://github.com/Cafu1107/kadraj/releases/latest): Telefonunu bilgisayarının kamerası yapar; yapay zekâ ile arka plan bulanıklaştırma ve değiştirme, filtreler, çerçeveler ve isim etiketiyle. Telefona uygulama kurmak yok: QR kodu okut, Zoom, Teams, Discord ve Meet'te kamera olarak görünsün.
 - 🖱️ **[OpenGlide](https://github.com/Cafu1107/openglide)** · [canlı demo](https://cafu1107.github.io/openglide/): Oyun fareleri için tarayıcıdan çalışan, açık kaynak kontrol paneli. 40'tan fazla markada DPI, polling rate, sensör, tuş ve RGB ayarlarını **WebHID** ile doğrudan fareye yazar. Üretici programı, hesap veya veri toplama yok.
 - 💾 **[Rebornix](https://github.com/Cafu1107/Rebornix)** · [indir](https://github.com/Cafu1107/Rebornix/releases/latest): Format atmadan önce her şeyi yedekler, formattan sonra tek tıkla geri kurar: sürücüler, Wi-Fi şifreleri (AES-256), winget ile programlar, oyun kayıtları ve Windows ayarları. Kurulum gerektirmeyen tek bir `.exe`; İngilizce, Türkçe ve Almanca.
 - 🔧 **[Komponent Depo](https://github.com/Cafu1107/komponent-depo)** · [canlı demo](https://cafu1107.github.io/komponent-depo/): Elektronik parçalar için stok uygulaması. Otomatik fotoğraf arama, fotoğraf düzenleyici, alışveriş listesi ve stok geçmişi var. Türkçe, İngilizce ve Almanca; bağımlılığı olmayan tek bir HTML dosyası.
