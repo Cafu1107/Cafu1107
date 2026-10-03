@@ -20,6 +20,12 @@
 
 ## 🚀 Projects
 
+### 🏀 [Pota](https://github.com/Cafu1107/pota) · [live demo](https://cafu1107.github.io/pota/)
+Live basketball scores and stats for 18 leagues, from the Turkish Super League and EuroLeague to the NBA: box scores, play-by-play, shot charts, standings and news, in Turkish and English. No ads and no betting odds, and you can install it as an app.
+`TypeScript` `React` `Vite` `TanStack Query` `Cloudflare Workers` `PWA`
+
+<a href="https://github.com/Cafu1107/pota"><img src="https://raw.githubusercontent.com/Cafu1107/pota/main/docs/assets/banner.png" width="100%" alt="Pota"></a>
+
 ### 🎥 [Kadraj](https://github.com/Cafu1107/kadraj) · [website](https://cafu1107.github.io/kadraj/) · [download](https://github.com/Cafu1107/kadraj/releases/latest)
 Turn your phone into a Windows webcam with AI background blur and replacement, filters, frames and a name tag. No phone app: scan a QR code and it shows up as a camera in Zoom, Teams, Discord and Meet.
 `C#` `.NET 9` `WPF` `C++` `Media Foundation` `ONNX Runtime`
@@ -63,6 +69,7 @@ Merhaba, ben Cafu! Webcam, mouse, format ve elektronik atölyesi için; şişkin
 
 ### Projeler
 
+- 🏀 **[Pota](https://github.com/Cafu1107/pota)** · [canlı demo](https://cafu1107.github.io/pota/): Basketbol Süper Ligi ve EuroLeague'den NBA'e 18 ligin canlı skorları ve istatistikleri: box score, maç akışı, şut haritası, puan durumu ve haberler; Türkçe ve İngilizce. Reklam ve bahis oranı yok, uygulama olarak yüklenebilir.
 - 🎥 **[Kadraj](https://github.com/Cafu1107/kadraj)** · [web sitesi](https://cafu1107.github.io/kadraj/) · [indir](https://github.com/Cafu1107/kadraj/releases/latest): Telefonunu bilgisayarının kamerası yapar; yapay zekâ ile arka plan bulanıklaştırma ve değiştirme, filtreler, çerçeveler ve isim etiketiyle. Telefona uygulama kurmak yok: QR kodu okut, Zoom, Teams, Discord ve Meet'te kamera olarak görünsün.
 - 🖱️ **[OpenGlide](https://github.com/Cafu1107/openglide)** · [canlı demo](https://cafu1107.github.io/openglide/): Oyun fareleri için tarayıcıdan çalışan, açık kaynak kontrol paneli. 40'tan fazla markada DPI, polling rate, sensör, tuş ve RGB ayarlarını **WebHID** ile doğrudan fareye yazar. Üretici programı, hesap veya veri toplama yok.
 - 💾 **[Rebornix](https://github.com/Cafu1107/Rebornix)** · [indir](https://github.com/Cafu1107/Rebornix/releases/latest): Format atmadan önce her şeyi yedekler, formattan sonra tek tıkla geri kurar: sürücüler, Wi-Fi şifreleri (AES-256), winget ile programlar, oyun kayıtları ve Windows ayarları. Kurulum gerektirmeyen tek bir `.exe`; İngilizce, Türkçe ve Almanca.
