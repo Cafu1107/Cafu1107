@@ -21,8 +21,8 @@
 ## 🚀 Projects
 
 ### 🏀 [Pota](https://github.com/Cafu1107/pota) · [live demo](https://cafu1107.github.io/pota/)
-Live basketball scores and stats for 18 leagues, from the Turkish Super League and EuroLeague to the NBA: box scores, play-by-play, shot charts, standings and news, in Turkish and English. No ads and no betting odds, and you can install it as an app.
-`TypeScript` `React` `Vite` `TanStack Query` `Cloudflare Workers` `PWA`
+Live basketball scores and stats for 18 leagues, from the Turkish Super League and EuroLeague to the NBA: box scores, play-by-play, shot charts, head to head, game highlights from official YouTube channels, moderated comments, standings and news, in Turkish and English. No ads and no betting odds, and you can install it as an app.
+`TypeScript` `React` `Vite` `TanStack Query` `Cloudflare Workers` `D1` `PWA`
 
 <a href="https://github.com/Cafu1107/pota"><img src="https://raw.githubusercontent.com/Cafu1107/pota/main/docs/assets/banner.png" width="100%" alt="Pota"></a>
 
@@ -69,7 +69,7 @@ Merhaba, ben Cafu! Webcam, mouse, format ve elektronik atölyesi için; şişkin
 
 ### Projeler
 
-- 🏀 **[Pota](https://github.com/Cafu1107/pota)** · [canlı demo](https://cafu1107.github.io/pota/): Basketbol Süper Ligi ve EuroLeague'den NBA'e 18 ligin canlı skorları ve istatistikleri: box score, maç akışı, şut haritası, puan durumu ve haberler; Türkçe ve İngilizce. Reklam ve bahis oranı yok, uygulama olarak yüklenebilir.
+- 🏀 **[Pota](https://github.com/Cafu1107/pota)** · [canlı demo](https://cafu1107.github.io/pota/): Basketbol Süper Ligi ve EuroLeague'den NBA'e 18 ligin canlı skorları ve istatistikleri: box score, maç akışı, şut haritası, geçmiş maçlar, resmî YouTube kanallarından maç özetleri, denetimli yorumlar, puan durumu ve haberler; Türkçe ve İngilizce. Reklam ve bahis oranı yok, uygulama olarak yüklenebilir.
 - 🎥 **[Kadraj](https://github.com/Cafu1107/kadraj)** · [web sitesi](https://cafu1107.github.io/kadraj/) · [indir](https://github.com/Cafu1107/kadraj/releases/latest): Telefonunu bilgisayarının kamerası yapar; yapay zekâ ile arka plan bulanıklaştırma ve değiştirme, filtreler, çerçeveler ve isim etiketiyle. Telefona uygulama kurmak yok: QR kodu okut, Zoom, Teams, Discord ve Meet'te kamera olarak görünsün.
 - 🖱️ **[OpenGlide](https://github.com/Cafu1107/openglide)** · [canlı demo](https://cafu1107.github.io/openglide/): Oyun fareleri için tarayıcıdan çalışan, açık kaynak kontrol paneli. 40'tan fazla markada DPI, polling rate, sensör, tuş ve RGB ayarlarını **WebHID** ile doğrudan fareye yazar. Üretici programı, hesap veya veri toplama yok.
 - 💾 **[Rebornix](https://github.com/Cafu1107/Rebornix)** · [indir](https://github.com/Cafu1107/Rebornix/releases/latest): Format atmadan önce her şeyi yedekler, formattan sonra tek tıkla geri kurar: sürücüler, Wi-Fi şifreleri (AES-256), winget ile programlar, oyun kayıtları ve Windows ayarları. Kurulum gerektirmeyen tek bir `.exe`; İngilizce, Türkçe ve Almanca.
