@@ -20,6 +20,12 @@
 
 ## 🚀 Projects
 
+### ☀️ [Sunseat](https://github.com/Cafu1107/sunseat) · [live demo](https://cafu1107.github.io/sunseat/)
+Which car seat will the sun hit? Pick a route, a departure time and your car, and see minute by minute how much sun every seat gets, with alternative routes, the best time to leave, glare warnings, cabin temperature and a park mode that tells you which way to face. Installable, Turkish and English.
+`JavaScript` `Leaflet` `OSRM` `Open-Meteo` `PWA`
+
+<a href="https://github.com/Cafu1107/sunseat"><img src="https://raw.githubusercontent.com/Cafu1107/sunseat/main/docs/og.png" width="100%" alt="Sunseat"></a>
+
 ### 🏀 [Pota](https://github.com/Cafu1107/pota) · [live demo](https://cafu1107.github.io/pota/)
 Live basketball scores and stats for 18 leagues, from the Turkish Super League and EuroLeague to the NBA: box scores, play-by-play, shot charts, head to head, game highlights from official YouTube channels, moderated comments, standings and news, in Turkish and English. No ads and no betting odds, and you can install it as an app.
 `TypeScript` `React` `Vite` `TanStack Query` `Cloudflare Workers` `D1` `PWA`
@@ -69,6 +75,7 @@ Merhaba, ben Cafu! Webcam, mouse, format ve elektronik atölyesi için; şişkin
 
 ### Projeler
 
+- ☀️ **[Sunseat](https://github.com/Cafu1107/sunseat)** · [canlı demo](https://cafu1107.github.io/sunseat/): Güneş arabada hangi koltuğa vuracak? Rotanı, çıkış saatini ve arabanı seç; her koltuğa dakika dakika ne kadar güneş geldiğini gör. Alternatif rotalar, en iyi çıkış saati, göz kamaşması uyarısı, kabin sıcaklığı ve "hangi yöne park etmeli" modu var. Telefona kurulabilir, Türkçe ve İngilizce.
 - 🏀 **[Pota](https://github.com/Cafu1107/pota)** · [canlı demo](https://cafu1107.github.io/pota/): Basketbol Süper Ligi ve EuroLeague'den NBA'e 18 ligin canlı skorları ve istatistikleri: box score, maç akışı, şut haritası, geçmiş maçlar, resmî YouTube kanallarından maç özetleri, denetimli yorumlar, puan durumu ve haberler; Türkçe ve İngilizce. Reklam ve bahis oranı yok, uygulama olarak yüklenebilir.
 - 🎥 **[Kadraj](https://github.com/Cafu1107/kadraj)** · [web sitesi](https://cafu1107.github.io/kadraj/) · [indir](https://github.com/Cafu1107/kadraj/releases/latest): Telefonunu bilgisayarının kamerası yapar; yapay zekâ ile arka plan bulanıklaştırma ve değiştirme, filtreler, çerçeveler ve isim etiketiyle. Telefona uygulama kurmak yok: QR kodu okut, Zoom, Teams, Discord ve Meet'te kamera olarak görünsün.
 - 🖱️ **[OpenGlide](https://github.com/Cafu1107/openglide)** · [canlı demo](https://cafu1107.github.io/openglide/): Oyun fareleri için tarayıcıdan çalışan, açık kaynak kontrol paneli. 40'tan fazla markada DPI, polling rate, sensör, tuş ve RGB ayarlarını **WebHID** ile doğrudan fareye yazar. Üretici programı, hesap veya veri toplama yok.
