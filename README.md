@@ -18,6 +18,14 @@
 
 ---
 
+## 🎮 Cafu's Room
+
+<a href="https://cafu1107.github.io"><img src="https://raw.githubusercontent.com/Cafu1107/Cafu1107.github.io/main/docs/demo.gif" width="100%" alt="Cafu's Room: Piko the handheld console catches a project cartridge, plugs it in and opens its card"></a>
+
+My portfolio as a little game: every project below is also a cartridge in a cartoon treehouse, and Piko, a handheld console with a face, plugs it in and shows you what it does. **[Play it at cafu1107.github.io →](https://cafu1107.github.io)**
+
+---
+
 ## 🚀 Projects
 
 ### ☀️ [Sunseat](https://github.com/Cafu1107/sunseat) · [live demo](https://cafu1107.github.io/sunseat/)
@@ -72,6 +80,10 @@ Inventory app for electronic parts, with automatic photo search, a photo editor,
 ## 🇹🇷 Türkçe
 
 Merhaba, ben Cafu! Webcam, mouse, format ve elektronik atölyesi için; şişkin, sürekli arka planda çalışan programların yerini alan sade ve açık kaynak araçlar geliştiriyorum.
+
+### 🎮 Cafu'nun Odası
+
+Portfolyom küçük bir oyun: aşağıdaki her proje, çizgi film tarzı bir ağaç evde duran bir kartuş. Yüzü olan el konsolu Piko kartuşu takıp projenin ne yaptığını gösteriyor. **[cafu1107.github.io adresinden oyna →](https://cafu1107.github.io)**
 
 ### Projeler
 
